@@ -1,5 +1,5 @@
 ;etiketformaat 75 x 75 mm
-
+ 
 0
 I8,1,047
 oR,E,437
@@ -16,16 +16,18 @@ A131,170,0,3,1,1,N,"Lege: @1artsakkoord@"
 A131,220,0,4,1,1,N,"@1middel@ @1doseringxxxxxxxxx@"
 A131,260,0,4,1,1,N,"@1volumex@ @1oplosmiddel@ @verdl@"
 ;A131,290,0,3,1,1,N,"@BNF-label@"
-
+ 
 ;A131,320,0,4,1,1,N,"Adm. dato: @toed_dat@"
 A131,300,0,4,1,1,N,"Adm. dato: @toed_dat@"
 A131,350,0,3,1,1,N,"Anv. innen:"
 A300,350,0,3,1,1,N,"@1expiratie@"
 A130,385,0,3,1,1,N,"@1houdbaarxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@"
-
+ 
 A131,420,0,3,1,1,N,"@1etitekst@"
 A131,470,0,3,1,1,N,"Knr: @1charge@"
 A131,520,0,3,1,1,N,"@1beretiknaam@"
 b621,0,Q,1,1,1,25,N,"@1charge@"
 P1,1
 JF
+ 
+N
