@@ -1,0 +1,9 @@
+! U1 setvar "device.languages" "epl"
+! U1 setvar "device.pnp_option" "epl"
+! U1 do "device.reset" "" <CR>
+
+
+
+//Check
+! U1 getvar "device.languages"
+! U1 getvar "device.pnp_option" <CR>
